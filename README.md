@@ -24,3 +24,7 @@ hello this second commit chunk
 hello this second commit chunk
 hello this second commit chunk
 hello this second commit chunk
+
+feature2
+feature2
+feature2
